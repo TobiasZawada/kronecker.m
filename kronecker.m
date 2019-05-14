@@ -2,7 +2,7 @@
 %% Date: 05/09/19
 %% Octave-Version: 2019-05-14
 %%
-%% Authors: Tobias Naehring (http://www.tn-home.de),
+%% Authors: Tobias Zawada (same person as former Tobias Naehring) (http://www.tn-home.de),
 %%          maybe you;-))
 %%
 %% License: GNU Lesser General Public License
